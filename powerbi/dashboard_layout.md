@@ -104,3 +104,4 @@ RETURN
         MergedPRs,
         DATEDIFF ( Tasks[created_at], Tasks[merged_at], HOUR )
     )
+new change

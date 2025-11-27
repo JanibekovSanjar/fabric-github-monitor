@@ -98,7 +98,7 @@ From this table, Power BI computes:
 - Average cycle time (days)
 - Average PR merge time (hours)
 - Activity per assignee and per repo
-
+change
 ---
 
 ## Prerequisites

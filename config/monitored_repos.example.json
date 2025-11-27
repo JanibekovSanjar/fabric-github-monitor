@@ -1,0 +1,16 @@
+{
+  "repos": [
+    {
+      "owner": "microsoft",
+      "repo": "fabric-samples",
+      "display_name": "Microsoft Fabric Samples",
+      "active": true
+    }
+  ],
+  "alerts": {
+    "issue_threshold": 80,
+    "pr_threshold": 20,
+    "old_pr_days": 7,
+    "no_activity_days": 3
+  }
+}

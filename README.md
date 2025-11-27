@@ -137,3 +137,5 @@ Secrets such as tokens and chat IDs should be stored in Fabric credentials or en
      - No activity has occurred in the last X days
 
 This repository is the documentation and reference code for the solution, not the runtime environment itself.
+
+This isn't enough

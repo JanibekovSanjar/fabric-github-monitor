@@ -135,5 +135,6 @@ Secrets such as tokens and chat IDs should be stored in Fabric credentials or en
      - Open issues exceed a threshold
      - Open PRs / old PRs exceed thresholds
      - No activity has occurred in the last X days
+     - addition
 
 This repository is the documentation and reference code for the solution, not the runtime environment itself.
